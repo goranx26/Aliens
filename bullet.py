@@ -29,8 +29,8 @@ class Bullet(Sprite):
         # Update the rects position
         self.rect.y = self.y
 # TESTCODE ///////////////////////////////////////////////////////////////
-        print("x= " + str(self.y))
-        print("y= " + str(self.rect.x))
+        print("y= " + str(self.y))
+        print("x= " + str(self.rect.x))
 # ///////////////////////////////////////////////////////////////////////
     def draw_bullet(self):
         """Draw the bullet to the screen"""
