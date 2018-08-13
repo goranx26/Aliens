@@ -28,10 +28,7 @@ class Bullet(Sprite):
         self.y -= self.speed_factor
         # Update the rects position
         self.rect.y = self.y
-# TESTCODE ///////////////////////////////////////////////////////////////
-        print("y= " + str(self.y))
-        print("x= " + str(self.rect.x))
-# ///////////////////////////////////////////////////////////////////////
+
     def draw_bullet(self):
         """Draw the bullet to the screen"""
         pygame.draw.rect(self.screen, self.color, self.rect)
