@@ -68,3 +68,4 @@ def update_bullets(bullets):
             bullets.remove(bullet)
     # THIS WILL BE REMOVED WHEN SHIT WORKS RIGHT
     print(len(bullets))
+
