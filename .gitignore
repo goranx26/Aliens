@@ -1,0 +1,168 @@
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/alien.cpython-36.pyc
+__pycache__/bullet.cpython-36.pyc
+__pycache__/game_functions.cpython-36.pyc
+__pycache__/settings.cpython-36.pyc
+__pycache__/ship.cpython-36.pyc
+venv/pyvenv.cfg
+venv/Lib/tcl8.6/init.tcl
+venv/Scripts/Activate.ps1
+venv/Scripts/Activate (1).ps1
+venv/Scripts/_asyncio.pyd
+venv/Scripts/_asyncio (1).pyd
+venv/Scripts/_bz2.pyd
+venv/Scripts/_bz2 (1).pyd
+venv/Scripts/_ctypes.pyd
+venv/Scripts/_ctypes (1).pyd
+venv/Scripts/_ctypes_test.pyd
+venv/Scripts/_ctypes_test (1).pyd
+venv/Scripts/_decimal.pyd
+venv/Scripts/_decimal (1).pyd
+venv/Scripts/_distutils_findvs.pyd
+venv/Scripts/_distutils_findvs (1).pyd
+venv/Scripts/_elementtree.pyd
+venv/Scripts/_elementtree (1).pyd
+venv/Scripts/_hashlib.pyd
+venv/Scripts/_hashlib (1).pyd
+venv/Scripts/_lzma.pyd
+venv/Scripts/_lzma (1).pyd
+venv/Scripts/_msi.pyd
+venv/Scripts/_msi (1).pyd
+venv/Scripts/_multiprocessing.pyd
+venv/Scripts/_multiprocessing (1).pyd
+venv/Scripts/_overlapped.pyd
+venv/Scripts/_overlapped (1).pyd
+venv/Scripts/_socket.pyd
+venv/Scripts/_socket (1).pyd
+venv/Scripts/_sqlite3.pyd
+venv/Scripts/_sqlite3 (1).pyd
+venv/Scripts/_ssl.pyd
+venv/Scripts/_ssl (1).pyd
+venv/Scripts/_testbuffer.pyd
+venv/Scripts/_testbuffer (1).pyd
+venv/Scripts/_testcapi.pyd
+venv/Scripts/_testcapi (1).pyd
+venv/Scripts/_testconsole.pyd
+venv/Scripts/_testconsole (1).pyd
+venv/Scripts/_testimportmultiple.pyd
+venv/Scripts/_testimportmultiple (1).pyd
+venv/Scripts/_testmultiphase.pyd
+venv/Scripts/_testmultiphase (1).pyd
+venv/Scripts/_tkinter.pyd
+venv/Scripts/_tkinter (1).pyd
+venv/Scripts/activate
+venv/Scripts/activate.bat
+venv/Scripts/activate (1)
+venv/Scripts/activate (1).bat
+venv/Scripts/deactivate.bat
+venv/Scripts/deactivate (1).bat
+venv/Scripts/pyexpat.pyd
+venv/Scripts/python.exe
+venv/Scripts/python (1).exe
+venv/Scripts/python3.dll
+venv/Scripts/python3 (1).dll
+venv/Scripts/python36.dll
+venv/Scripts/python36 (1).dll
+venv/Scripts/pythonw.exe
+venv/Scripts/pythonw (1).exe
+venv/Scripts/select.pyd
+venv/Scripts/select (1).pyd
+venv/Scripts/sqlite3.dll
+venv/Scripts/sqlite3 (1).dll
+venv/Scripts/tcl86t.dll
+venv/Scripts/tcl86t (1).dll
+venv/Scripts/tk86t.dll
+venv/Scripts/tk86t (1).dll
+venv/Scripts/unicodedata.pyd
+venv/Scripts/unicodedata (1).pyd
+venv/Scripts/vcruntime140.dll
+venv/Scripts/vcruntime140 (1).dll
+venv/Scripts/winsound.pyd
+venv/Scripts/winsound (1).pyd
+venv/Scripts/winsound (1).pyd
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/alien.cpython-36.pyc
+__pycache__/bullet.cpython-36.pyc
+__pycache__/game_functions.cpython-36.pyc
+__pycache__/settings.cpython-36.pyc
+__pycache__/ship.cpython-36.pyc
+venv/pyvenv.cfg
+venv/Lib/tcl8.6/init.tcl
+venv/Scripts/Activate.ps1
+venv/Scripts/Activate (1).ps1
+venv/Scripts/_asyncio.pyd
+venv/Scripts/_asyncio (1).pyd
+venv/Scripts/_bz2.pyd
+venv/Scripts/_bz2 (1).pyd
+venv/Scripts/_ctypes.pyd
+venv/Scripts/_ctypes (1).pyd
+venv/Scripts/_ctypes_test.pyd
+venv/Scripts/_ctypes_test (1).pyd
+venv/Scripts/_decimal.pyd
+venv/Scripts/_decimal (1).pyd
+venv/Scripts/_distutils_findvs.pyd
+venv/Scripts/_distutils_findvs (1).pyd
+venv/Scripts/_elementtree.pyd
+venv/Scripts/_elementtree (1).pyd
+venv/Scripts/_hashlib.pyd
+venv/Scripts/_hashlib (1).pyd
+venv/Scripts/_lzma.pyd
+venv/Scripts/_lzma (1).pyd
+venv/Scripts/_msi.pyd
+venv/Scripts/_msi (1).pyd
+venv/Scripts/_multiprocessing.pyd
+venv/Scripts/_multiprocessing (1).pyd
+venv/Scripts/_overlapped.pyd
+venv/Scripts/_overlapped (1).pyd
+venv/Scripts/_socket.pyd
+venv/Scripts/_socket (1).pyd
+venv/Scripts/_sqlite3.pyd
+venv/Scripts/_sqlite3 (1).pyd
+venv/Scripts/_ssl.pyd
+venv/Scripts/_ssl (1).pyd
+venv/Scripts/_testbuffer.pyd
+venv/Scripts/_testbuffer (1).pyd
+venv/Scripts/_testcapi.pyd
+venv/Scripts/_testcapi (1).pyd
+venv/Scripts/_testconsole.pyd
+venv/Scripts/_testconsole (1).pyd
+venv/Scripts/_testimportmultiple.pyd
+venv/Scripts/_testimportmultiple (1).pyd
+venv/Scripts/_testmultiphase.pyd
+venv/Scripts/_testmultiphase (1).pyd
+venv/Scripts/_tkinter.pyd
+venv/Scripts/_tkinter (1).pyd
+venv/Scripts/activate
+venv/Scripts/activate.bat
+venv/Scripts/activate (1)
+venv/Scripts/activate (1).bat
+venv/Scripts/deactivate.bat
+venv/Scripts/deactivate (1).bat
+venv/Scripts/pyexpat.pyd
+venv/Scripts/python.exe
+venv/Scripts/python (1).exe
+venv/Scripts/python3.dll
+venv/Scripts/python3 (1).dll
+venv/Scripts/python36.dll
+venv/Scripts/python36 (1).dll
+venv/Scripts/pythonw.exe
+venv/Scripts/pythonw (1).exe
+venv/Scripts/select.pyd
+venv/Scripts/select (1).pyd
+venv/Scripts/sqlite3.dll
+venv/Scripts/sqlite3 (1).dll
+venv/Scripts/tcl86t.dll
+venv/Scripts/tcl86t (1).dll
+venv/Scripts/tk86t.dll
+venv/Scripts/tk86t (1).dll
+venv/Scripts/unicodedata.pyd
+venv/Scripts/unicodedata (1).pyd
+venv/Scripts/vcruntime140.dll
+venv/Scripts/vcruntime140 (1).dll
+venv/Scripts/winsound.pyd
