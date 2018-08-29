@@ -12,7 +12,7 @@ class Settings():
         self.ship_speed_factor = 1.5
 
         # Bullet settings
-        self.bullet_speed_factor = 1
+        self.bullet_speed_factor = 3
         self.bullet_width = 10
         self.bullet_height = 10
         self.bullet_color = 0, 0, 0
@@ -23,6 +23,3 @@ class Settings():
         self.fleet_drop_speed = 10
         # fleet_direction of 1 represents right; -1 is left
         self.fleet_direction = 1
-        
-
-
