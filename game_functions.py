@@ -152,7 +152,7 @@ def update_aliens(ai_settings, stats, screen, ship, aliens, bullets):
 
 def ship_hit(ai_settings, stats, screen, ship, aliens, bullets):
     """Respond to the ship getting hit by aliens"""
-    if stats_ships_left > 0:
+    if stats.ships_left > 0:
         # Decrement ships_left
         stats.ships_left -= 1
 
